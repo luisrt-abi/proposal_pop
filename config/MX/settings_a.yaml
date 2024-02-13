@@ -1,0 +1,8 @@
+- name: pipeline1
+  country: "Mexico"
+  add1: 5
+  add2: 2
+- name: pipeline2
+  country: "Mexico"
+  add2: 10
+  add3: 2

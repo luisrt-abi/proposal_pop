@@ -1,0 +1,11 @@
+- name: pipeline1
+  settings:
+    country: "Colombia"
+    add1: 1
+    add2: 2
+- name: pipeline2
+version = 1
+  settings:
+    country: "Colombia"
+    add2: 2
+    add3: 3
